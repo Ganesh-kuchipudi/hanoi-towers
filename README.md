@@ -1,5 +1,6 @@
 # hanoi-towers
-A small game written in python. It makes use of a library graphics.py to create visual effects.
+This game about solving the Towers of Hanoi containing 3 posts and user-defined number of disks. 
+It is written in python and makes use of graphics.py library to create visual effects.
 
 ### Pre Requisites:
 - Python 3 or more installed
