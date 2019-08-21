@@ -1,7 +1,7 @@
 # hanoi-towers
 A small game written in python. It makes use of a library graphics.py to create visual effects.
 
-Pre Requisites:
+## Pre Requisites:
 - Python 3 or more installed
 
 To run the game:
