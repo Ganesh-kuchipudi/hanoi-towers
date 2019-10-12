@@ -2,6 +2,8 @@
 This game about solving the Towers of Hanoi containing 3 posts and user-defined number of disks. 
 It is written in python and makes use of graphics.py library to create visual effects.
 
+![](https://github.com/guptavasu1213/hanoi-towers/blob/master/demo_image.png)
+
 ### Pre Requisites:
 - Python 3 or more installed
 
